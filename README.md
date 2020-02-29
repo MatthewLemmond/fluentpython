@@ -1,0 +1,1 @@
+This github is made to track progress through the fluent python book.
